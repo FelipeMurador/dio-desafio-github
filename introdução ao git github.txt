@@ -1,0 +1,1 @@
+gitbash é um terminal extendido para otimizar o uso do git para instalar o git você precisa ir no site oficial do git e instalar https://git-scm.com/
